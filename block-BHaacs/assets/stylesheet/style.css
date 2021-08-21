@@ -88,11 +88,12 @@ body {
 }
 .btn {
  display: inline-block;
- padding: 1rem 1.5rem;
+ padding: .6rem 1.5rem;
  border-radius: 8px;
  color: rgb(50,67,119);
- font-size: 1.5rem;
- font-weight: 900;    
+ font-size: 1rem;
+ font-weight: 900; 
+ margin-bottom: 2rem;   
 }
 
  /* PAGE HEADER */
@@ -193,7 +194,6 @@ body {
      padding: .39rem 1.6rem;
      background: rgb(89,191,194);
      position: relative;
-     /* margin-left: .5rem; */
 	 margin-top: 1rem;
  }
  .learn-btn::before {
