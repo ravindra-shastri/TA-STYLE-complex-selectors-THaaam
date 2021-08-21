@@ -102,7 +102,7 @@ body {
      position: absolute;
  }
  .brand {
-     font-size: 1.8rem;
+     font-size: 1.6rem;
      color: #fff;
      font-weight: 800;
  }
@@ -114,16 +114,16 @@ body {
  }
  .top-nav a {
      color: #fff;
-     font-size: 1.4rem;
-	 margin: 0 .2rem;
+     font-size: 1.2rem;
+	 margin: 0 .3rem;
  }
 
  /* HERO SECTION */
 
  .hero {
      background: rgb(89,191,194);
-     height: 100vh;
-     margin-bottom: 15rem;
+     height: 60vh;
+     margin-bottom: 9rem;
  }
  .hero-content {
      width: 70%;
@@ -133,7 +133,7 @@ body {
      justify-content: flex-end;
   } 
  .page-title {
-     font-size: 3.1rem;
+     font-size: 2.6rem;
 	 font-weight: 600;
      line-height: 1;
      text-align: center;
@@ -147,7 +147,7 @@ body {
  }
  .hero-content img {
      margin-top: -5rem;
-     box-shadow: 0px 30px 12px -12px rgb(177, 172, 172);
+     box-shadow: 0px 59px 32px -12px #EBF0F8;
  }
  /* FILES SECTION */ 
  .files nav {
@@ -188,12 +188,13 @@ body {
  }
  .learn-btn {
      color: #fff;
-     font-weight: 900;
+     font-weight: 600;
      display: inline-block;
-     padding: .35rem 1.4rem;
+     padding: .39rem 1.6rem;
      background: rgb(89,191,194);
      position: relative;
-     margin-left: 2rem;
+     /* margin-left: .5rem; */
+	 margin-top: 1rem;
  }
  .learn-btn::before {
      content: "";
